@@ -14,6 +14,8 @@ a {
 .name-text {
     padding-top: 50px;
     padding-left: 40px;
+    margin-left: auto;
+    margin-right: auto;
 }
 
 img.circle {
@@ -49,6 +51,7 @@ img.circle {
 
 .description-text {
     padding-left: 40px;
+    padding-top: 30px;
 }
 
 
