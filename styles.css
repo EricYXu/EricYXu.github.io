@@ -1,0 +1,81 @@
+/* Styles for index html page */
+
+/* Styles for navigation bar */
+.navigation-bar {
+    background-color: #3c3c3c;
+    color: #f9f9f9;
+}
+
+/* Styles for name, links, and profile picture, the a gets rid of blue line under links*/
+a {
+    text-decoration: none;
+}
+
+.name-text {
+    padding-top: 50px;
+    padding-left: 40px;
+}
+
+img.circle {
+    width: 240px;
+    height: 240px;
+    border-radius: 50%;
+}
+
+.rotate {
+    animation: rotation 1s ease-out;
+}
+
+@keyframes rotation {
+    from {
+      transform: rotate(0deg);
+    }
+    to {
+      transform: rotate(359deg);
+    }
+}
+
+.contact-link {
+    width: 40px;
+    height: 40px;
+    border-radius: 10%;
+}
+
+/* Styles for description and text */
+.tight-paragraph {
+    word-wrap: break-word;
+    width: 800px;
+}
+
+.description-text {
+    padding-left: 40px;
+}
+
+
+/* Styles for contact html page */
+.contact-text {
+    padding-top: 40px;
+}
+
+.medium-paragraph {
+    word-wrap: break-word;
+    width: 1100px;
+}
+
+/* Styles for games html page */
+
+.games-text {
+    padding-top: 40px;
+}
+
+/* Makes body text look better */
+body {
+    background-color: #fff;
+    color: #212529;
+    font-size: 1rem;
+    font-weight: 450;
+    line-height: 2.5;
+    margin: 0;
+    text-align: left;
+}
+
