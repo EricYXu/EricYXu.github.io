@@ -19,7 +19,7 @@ linkedin_username: "EricYangXu"
 #########################################################################################
 theme: "minima"
 
-rss: rss
+#rss: rss
 
 kramdown:
   syntax_highlighter_opts:
