@@ -1,5 +1,5 @@
-Here you can say lots of fun things about your site.
+Welcome! 
 
-Maybe say a some things about yourself.
+This is a place for me to recount the things I learned recently, and also post things that I am working on. 
 
-Or maybe what you plan to blog about.
+The development of this site is itself an active learning experience so pardon the mess.
