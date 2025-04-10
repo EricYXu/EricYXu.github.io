@@ -22,8 +22,7 @@ New terminology:
 1. Starting with an instance of [31, 41, 59, 26, 41, 58], insertion sort would conduct the following set of operations. [31, 41, 59, 26, 41, 58] (instance) --> [31, 41, 59, 26, 41, 58] --> [31, 41, 59, 26, 41, 58] --> [26, 31, 41, 59, 41, 58] --> [26, 31, 41, 41, 59, 58] --> [26, 31, 41, 41, 58, 59] (halt).
 
 2. If we wanted to rewrite insertion sort to arrange elements in non-increasing order (in Python), we could write:
-```python
-
+```
 def insertion_sort_nonincreasing(A):
     for j in range(1, len(A)):
         key = A[j]
@@ -32,11 +31,10 @@ def insertion_sort_nonincreasing(A):
             A[i+1] = A[i]
             i = i-1
         A[i+1] = key
-
 ```
 
 3. Pseudocode for linear search would look like: 
-```python
+```
 
 def linear_search(A, v):
     for index, element in enumerate(A):
