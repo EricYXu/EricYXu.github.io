@@ -35,14 +35,11 @@ def insertion_sort_nonincreasing(A):
 
 3. Pseudocode for linear search would look like: 
 ```
-
 def linear_search(A, v):
     for index, element in enumerate(A):
         if v == element:
             return index
-    
     return None
-
 ```
 
 Now let's use loop invariants to prove that this algorithm is correct. We let the loop invariant be that the subarray A[1, 2, ..., j-1] does not contain the value v. 
