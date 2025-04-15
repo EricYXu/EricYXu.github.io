@@ -12,11 +12,7 @@ New terminology:
 #### Chapter 1.1 Exercises
 1. Sorting shopping items alphabetically, diameter of a plot of points
 2. Amount of memory needed
-3. Linked list. Pros: 
-
-
-
-
+3. Linked list. Pros: appending to the front, deletion from end. Cons: searching and sorting is slow, cannot be iterated in reverse, random access slow
 
 #### Chapter 2.1 Exercises
 1. Starting with an instance of [31, 41, 59, 26, 41, 58], insertion sort would conduct the following set of operations. [31, 41, 59, 26, 41, 58] (instance) --> [31, 41, 59, 26, 41, 58] --> [31, 41, 59, 26, 41, 58] --> [26, 31, 41, 59, 41, 58] --> [26, 31, 41, 41, 59, 58] --> [26, 31, 41, 41, 58, 59] (halt).
