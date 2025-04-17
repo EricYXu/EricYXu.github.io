@@ -1,4 +1,4 @@
-<img src=".images/SparPolePicture.jpg" alt="climbing a pole in New Mexico" height="20%"/>
+[<img src="./images/SparPolePicture.png" height="50%"/>](./images/SparPolePicture.png)
 
 Hi! I am Eric, a student at Harvard College. I made this blog to serve as a place for me to recount the topics I learned recently, and also post projects that I am working on. Soon, I hope to populate this space with things that are meaningful to me. The development of this site is itself an active learning experience so pardon the mess.
 
