@@ -1,0 +1,1 @@
+pandoc -s test.tex -o test.md
