@@ -8,5 +8,5 @@ In ["The Bitter Lesson"](https://www.cs.utexas.edu/~eunsol/courses/data/bitter_l
 Sutton calls for the teaching of "bitter lesson" regarding the human-centric approach to AI research because it has been found time and time again that these "meta-methods" have perform better than human-informed problem-solvers in the long-term. The best solutions to problems in natural language processing (DARPA speech recognition challenge), game playing (Deep Blue and AlphaGo), and computer vision, have employed primarily search and learning rather than some human intuition for how these problems are solved within the human brain. Hence, for researchers to continue to self-indulgently use human understanding to solve a task, this approach could be counterproductive. This is mainly due to the fact that the development human-designed problem-solvers often takes substantial amounts of time, just for "meta-methods" to still achieve better performance. The author concludes by emphasizing the need to acknowledge our world's immense complexity and the futility of trying to incorporate our interpretation of the brain's model of the world/task into a problem-solver for said task. 
 
 ### Questions
-- What are some problem domains where you still see the widespread use of human-centered techniques? 
-- Are there other "meta-methods" that Sutton refers to besides search and learning?
+- What are some problem domains where human-centered techniques are still common? 
+- Are there other "meta-methods" besides search and learning?
