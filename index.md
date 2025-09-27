@@ -1,3 +1,5 @@
-Hi! I am Eric, a student at Harvard College. I am studying computer science and statistics while dabbling in biology and chemistry. When I am not working, I enjoy playing the alto saxophone, running around the Boston area, and reading.
+Hey! I am Eric Xu, a student at Harvard College. I am studying computer science while dabbling in chemistry. When I am not working, I enjoy running around the Boston area and playing the alto saxophone. 
+
+[CV](assets/ResumeEricYXu_September2025.pdf){:target="_blank"}
 
 
