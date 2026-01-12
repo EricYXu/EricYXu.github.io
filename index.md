@@ -1,2 +1,5 @@
-Hey! I am Eric Xu, a student at Harvard College. I am studying computer science while dabbling in chemistry. When I am not working, I enjoy running around the Boston area and playing the alto saxophone. 
+I'm Eric Xu, a student at Harvard College. I do AI research at the Kempner Institute.
 
+Here are some of my involvements:
+- **HackHarvard Technical Director**: April 2025 - Present
+- **Kempner Institute Spring and Summer Research Fellow**: January 2025 - August 2025
