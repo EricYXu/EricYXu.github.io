@@ -1,0 +1,27 @@
+/* =====================
+   Personal site overrides
+   ===================== */
+
+/* --- Post navigation (prev/next links at the bottom of posts) --- */
+
+.post-nav {
+  display: flex;
+  justify-content: space-between;
+  margin-top: 2rem;
+  padding-top: 1rem;
+  border-top: 1px solid #e8e8e8;
+  font-size: 0.9em;
+}
+
+.post-nav a {
+  color: inherit;
+  text-decoration: none;
+}
+
+.post-nav a:hover {
+  text-decoration: underline;
+}
+
+/* =====================
+   Add your custom styles below
+   ===================== */
