@@ -2,13 +2,13 @@
 layout: home
 ---
 
-I'm Eric Xu, a student at Harvard College. I do AI research at the Kempner Institute.
+I'm Eric Xu, a student at Harvard College.
 
 ## Experience
 
 - **HackHarvard Technical Director** — April 2025 – Present
-- **Kempner Institute Spring and Summer Research Fellow** — January 2025 – August 2025
+- **Kempner Institute Research Fellow** — January 2025 – August 2025
 
-## Projects
+## Contact
 
-- [Gadgets](https://ericyxu.github.io/gadgets/)
+If you would like to get in contact, feel free to send me a message on [LinkedIn](https://www.linkedin.com/in/Eric-Yang-Xu/) or [email](mailto:ericxu2025@gmail.com)!
