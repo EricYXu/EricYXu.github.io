@@ -7,7 +7,7 @@ I'm Eric Xu, a student at Harvard College.
 ## Experience
 
 - **HackHarvard Technical Director** — April 2025 – Present
-- **Kempner Institute Research Fellow** — January 2025 – August 2025
+- **Kempner Institute Research Fellow** — January 2025 – August 2025, January 2026 - Present
 
 ## Contact
 
