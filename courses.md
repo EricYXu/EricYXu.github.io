@@ -1,6 +1,8 @@
----
+<!-- ---
 layout: page
 title: Courses
 ---
 
-[CS 1050: Privacy and Technology](/courses/cs1050)
+Here is an incomplete list of courses that I am taking or have taken in the past:
+
+[CS 1360](/courses/cs1360) -->
