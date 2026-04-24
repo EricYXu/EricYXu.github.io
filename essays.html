@@ -1,0 +1,53 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<link rel="stylesheet" href="static/style.css">
+<title>Writing · Eric Xu</title>
+</head>
+<body>
+
+<div id="menu">
+  <span class="title">Eric Xu</span>
+  <ul>
+    <li><a href="index.html">Home</a></li>
+    <li><a href="about.html">About</a></li>
+    <li><a href="essays.html">Writing</a></li>
+    <li><a href="courses.html">Courses</a></li>
+  </ul>
+</div>
+
+<div id="left"></div>
+
+<div id="content">
+  <h1>Writing</h1>
+
+  <p class="notop">
+    There is no intended theme.
+  </p>
+
+  <button class="accordion">2026</button>
+  <div class="panel">
+    <ul>
+      <li>Untitled &mdash; <em>coming soon</em></li>
+    </ul>
+  </div>
+</div>
+
+<script>
+  document.querySelectorAll(".accordion").forEach(function (btn) {
+    btn.addEventListener("click", function () {
+      this.classList.toggle("active");
+      var panel = this.nextElementSibling;
+      if (panel.style.maxHeight) {
+        panel.style.maxHeight = null;
+      } else {
+        panel.style.maxHeight = panel.scrollHeight + "px";
+      }
+    });
+  });
+</script>
+
+</body>
+</html>
