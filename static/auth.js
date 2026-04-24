@@ -12,7 +12,7 @@
 
   overlay.innerHTML = [
     '<div style="text-align:center">',
-    '  <input id="_pw" type="password" placeholder="Password"',
+    '  <input id="_pw" type="password" placeholder=""',
     '    style="border:none;border-bottom:1px solid #000;outline:none;',
     '           font-size:1rem;padding:4px 2px;width:180px;text-align:center">',
     '  <div id="_pw_err" style="color:#c00;font-size:0.8rem;margin-top:8px;',

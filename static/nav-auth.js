@@ -26,7 +26,7 @@
   ].join(";");
 
   box.innerHTML = [
-    '<input id="_nav_pw" type="password" placeholder="password"',
+    '<input id="_nav_pw" type="password" placeholder=""',
     '  style="border:none;border-bottom:1px solid #8b4513;background:transparent;',
     '         outline:none;font-family:Georgia,serif;font-size:12px;',
     '         color:#2b2b2b;padding:2px 4px;width:100px;text-align:right;',
