@@ -103,11 +103,11 @@ nav a:hover, .social-links-header a:hover {
 }
 
 /* Unified animation for elements (not sections) */
-.publication-item, .award-item, .service-category, .misc-item, .news-list li {
+.publication-item, .award-item, .experience-item, .project-item, .service-category, .misc-item, .news-list li {
   transition: transform var(--transition-time) ease;
 }
 
-.publication-item:hover, .award-item:hover, 
+.publication-item:hover, .award-item:hover, .experience-item:hover, .project-item:hover,
 .service-category:hover, .misc-item:hover, .news-list li:hover {
   transform: translateX(var(--animation-offset));
 }
@@ -269,6 +269,39 @@ section {
   box-shadow: 0 2px 5px rgba(74, 116, 185, 0.2);
 }
 
+/* Experience and projects sections */
+.experience-item, .project-item {
+  margin-bottom: 1rem;
+}
+
+.experience-header, .project-header {
+  display: flex;
+  justify-content: space-between;
+  align-items: baseline;
+  flex-wrap: wrap;
+}
+
+.experience-title, .project-title {
+  font-weight: 500;
+  color: var(--accent-color);
+}
+
+.experience-date, .project-date {
+  font-size: 0.85rem;
+  color: var(--text-secondary);
+}
+
+.experience-org {
+  font-size: 0.9rem;
+  font-style: italic;
+  color: var(--text-secondary);
+  margin-bottom: 0.25rem;
+}
+
+.experience-desc, .project-desc {
+  margin: 0 0 0.25rem;
+}
+
 /* Awards section */
 .award-item {
   display: flex;
@@ -279,7 +312,7 @@ section {
 .award-year {
   font-weight: 500;
   color: var(--accent-color);
-  flex: 0 0 80px;
+  flex: 0 0 140px;
 }
 
 .award-desc {
