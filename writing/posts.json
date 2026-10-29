@@ -1,0 +1,11 @@
+{
+  "posts": [
+    {
+      "slug": "hello",
+      "file": "hello.md",
+      "title": "A First Page",
+      "date": "2026-10-29",
+      "subtitle": "On starting a notebook you intend to keep"
+    }
+  ]
+}
